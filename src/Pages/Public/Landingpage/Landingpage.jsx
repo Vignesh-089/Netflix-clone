@@ -12,7 +12,7 @@ import vid2 from "../../../assert/tvVideo2.m4v"
 import img4 from "../../../assert/children.png"
 import img5 from "../../../assert/boxshot.png"
 import AccordionList from '../../../components/accordian/Accordian.jsx';
-// import Footer from '../../../components/footer/Footer.jsx';
+import Footer from '../../../components/footer/Footer.jsx';
 
 const Landingpage = () => {
   return (
@@ -172,7 +172,7 @@ const Landingpage = () => {
         <Inputbox />
       </div>
       <div className="Footer">
-        {/* <Footer /> */}
+        <Footer />
       </div>
 
 
