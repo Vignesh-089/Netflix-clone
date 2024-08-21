@@ -1,0 +1,44 @@
+.Signin1 {
+  display: grid;
+  grid-template-columns: 250px 280px 280px 280px;
+  grid-template-rows: 35px 35px 35px 35px;
+  text-decoration: underline;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.ourfooter2 {
+  display: grid;
+  grid-template-columns: 250px 250px 250px 280px;
+  grid-template-rows: 35px 35px 35px 35px;
+  color: #757575;
+}
+
+.home-footer {
+  background-color: black;
+}
+
+.home-footer1 {
+  margin-left: 280px;
+  display: grid;
+  grid-template-columns: 230px 230px 230px 230px;
+  grid-template-rows: 35px 35px 35px 35px;
+  color: #757575;
+  font-size: small;
+}
+
+.service-home {
+  color: #757575;
+  border: 1px solid #757575;
+  /* height: 20px; */
+  width: 80px;
+  padding: 10px;
+  font-size: small;
+  margin-left: 280px;
+  margin-top: -20px;
+}
+
+.inc-home {
+  color: #757575;
+  font-size: small;
+  margin-left: 280px;
+}

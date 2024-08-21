@@ -1,0 +1,48 @@
+/* .main-rows{
+    display: flex;
+    flex-direction: row;
+} */
+.rows ul {
+   list-style-type: none;
+}
+
+.rows {
+   display: flex;
+   flex-direction: row;
+   gap: 10px;
+   margin-left: 80px;
+   margin-top: -5px;
+}
+
+.left-arrow {
+   border: 0;
+   color: white;
+   height: 0px;
+   position: relative;
+   top: 100px;
+   background: none;
+}
+
+.right-arrow {
+   border: 0;
+   color: white;
+   margin-left: 96%;
+   position: relative;
+   background: none;
+   bottom: 120px;
+   background: none;
+}
+
+.arrow-icons {
+   width: 30px;
+   height: 30px;
+   display: none;
+}
+
+.main-rows:hover .arrow-icons {
+   display: block;
+}
+
+.main-rows {
+   margin-top: -30px;
+}

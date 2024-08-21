@@ -1,0 +1,48 @@
+.Signinform {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 580px;
+    width: 450px;
+    margin-left: 500px;
+    margin-top: -135px;
+
+}
+
+.forgetpass-signin:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.form1 {
+    text-align: center;
+}
+
+.formhead {
+    margin-left: -180px;
+    padding-top: 50px;
+}
+
+.or {
+    margin-top: 30px;
+}
+
+.form2 {
+    margin-left: 80px;
+}
+
+.forgetpass-signin {
+    margin-top: 20px;
+}
+
+.one {
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+}
+
+.learnmore {
+    font-size: small;
+}
+
+.butt {
+    cursor: pointer;
+}

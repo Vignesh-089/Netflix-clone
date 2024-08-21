@@ -1,0 +1,31 @@
+.Emailinput {
+  background: transparent;
+  padding: 20px;
+  width: 300px;
+  margin-left: 33%;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+}
+
+.signinpassword {
+  margin-top: 10px;
+  background: transparent;
+  padding: 18px;
+  width: 250px;
+  /* margin-left: 33%; */
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+}
+
+.signininput {
+  background: transparent;
+  padding: 18px;
+  width: 250px;
+  /* margin-left: 33%; */
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  /* margin-left: -100px; */
+}

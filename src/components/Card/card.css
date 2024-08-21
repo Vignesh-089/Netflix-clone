@@ -1,0 +1,155 @@
+.test {
+   height: 150px;
+}
+
+.left-icons {
+   display: none;
+}
+
+.single-card:hover {
+   animation: card 2s forwards;
+}
+
+@keyframes card {
+   0% {
+      transform: scale(1);
+   }
+
+   50% {
+      transform: scale(1.4);
+   }
+
+   100% {
+      transform: scale(1.4);
+   }
+}
+
+.single-card:hover .left-icons {
+   display: block;
+   border: 1px solid black;
+   background-color: rgb(50, 46, 46);
+   color: black;
+   height: 100px;
+   width: 265px;
+   margin-top: -10px;
+   position: absolute;
+
+}
+
+.single-card:hover .rating {
+   display: block;
+   color: white;
+   position: absolute;
+   top: 190px;
+   left: 15px;
+}
+
+.single-card:hover .movie-title {
+   display: block;
+   color: white;
+   position: absolute;
+   top: 200px;
+   left: 15px;
+}
+
+.rating {
+   display: none;
+}
+
+.movie-title {
+   display: none;
+   font-size: smaller;
+}
+
+.play-icon {
+   height: 50px;
+   width: 25px;
+   margin-left: 10px;
+   color: white;
+}
+
+.plus-icon {
+   height: 50px;
+   width: 30px;
+   margin-left: 10px;
+   /* color: white; */
+}
+
+.thumbup-icon {
+   height: 50px;
+   width: 25px;
+   color: white;
+   margin-left: 10px;
+}
+
+.down-icon {
+   font-size: xx-large;
+   position: relative;
+   bottom: 15px;
+   left: 100px;
+   height: 20px;
+   padding: 2px;
+   color: white;
+}
+
+.thumb-hover {
+   display: none;
+   color: white;
+   background-color: gray;
+   height: 25px;
+   width: 80px;
+   border-radius: 10px;
+   /* text-align: center; */
+   gap: 10px;
+   margin-top: -40px;
+   margin-left: 60px;
+}
+
+.thumbdown-hover {
+   margin-left: 5px;
+   margin-top: 5px;
+}
+
+.thumbup-hover {
+   margin-left: 10px;
+   margin-top: 5px;
+}
+
+.thumbclap-hover {
+   margin-left: 10px;
+   margin-top: 5px;
+}
+
+/* .thumbup-icon:hover{
+   display: none;
+}
+.thumbup-icon:hover .thumb-hover{
+   display: none;
+   display: block;
+} */
+
+/* .thumbup-icon{
+   animation: thumb 2s forwards;
+}
+@keyframes thumb {
+   0% {
+      transform: scale(1);
+   }
+
+   50% {
+      transform: scale(1.4);
+   }
+
+   100% {
+      transform: scale(1.4);
+   }
+} */
+
+.Like-icon{
+   color: white;
+   position: relative;
+   top: -50px;
+}
+/* .card-img{
+   position: absolute;
+} */

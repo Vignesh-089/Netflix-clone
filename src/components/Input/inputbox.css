@@ -1,0 +1,23 @@
+.Getstart-butt {
+  background-color: red;
+  color: white;
+  padding: 17px;
+  width: 220px;
+  border-radius: 3px;
+  border: 0;
+  position: relative;
+  left: 56.2%;
+  bottom: 60px;
+  /* top: 500px; */
+  font-weight: bold;
+  font-size: x-large;
+  cursor: pointer;
+}
+
+#svg1 {
+  height: 25px;
+  position: relative;
+  left: 1035px;
+  bottom: 103px;
+  color: white;
+}

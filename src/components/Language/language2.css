@@ -1,0 +1,27 @@
+/* .langsignup1{
+    padding: 10px;
+} */
+.langup1 {
+    padding: 15px;
+    padding-left: 30px;
+    color: #333;
+    margin-left: 100px;
+    position: relative;
+    bottom: 30px;
+}
+
+#worldsvg {
+    height: 25px;
+    position: relative;
+    top: -23px;
+    right: 105px;
+}
+
+.langsignup2 {
+    padding: 15px;
+    padding-left: 30px;
+    color: #333;
+    margin-left: -130px;
+    position: relative;
+    bottom: 30px;
+}

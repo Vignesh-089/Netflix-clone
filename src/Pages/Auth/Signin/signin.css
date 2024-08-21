@@ -1,0 +1,24 @@
+.Signin0 {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0.7) 60%, rgba(0, 0, 0, 0.8) 100%), url(../../../assert/banner.jpg);
+    color: white;
+
+}
+
+.Signin {
+    color: white;
+    background-color: black;
+}
+
+.Signin1 {
+    margin-left: 180px;
+}
+
+.num {
+    margin-left: 180px;
+    margin-top: 200px;
+}
+
+.langsignin {
+    margin-top: 68%;
+    margin-left: -61.2%;
+}

@@ -1,0 +1,20 @@
+/* .popular{
+    margin-top: 200px;
+} */
+
+.popular_content {
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 80px;
+    /* margin-top: 500px; */
+}
+
+.popular-header {
+    margin-top: -350px;
+}
+
+.NETFLIXORIGINALS {
+    position: relative;
+    top: 50px;
+}

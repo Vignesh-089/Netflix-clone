@@ -1,0 +1,174 @@
+.Landing-body {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+#video1 {
+    width: 385px;
+    position: absolute;
+    left: 915px;
+    bottom: -380px;
+    z-index: 1;
+}
+
+.Landing-body1 {
+    font-size: xxx-large;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.Landing-body2 {
+    font-size: x-large;
+    width: 600px;
+    position: relative;
+    bottom: 45px;
+    margin-left: 100px;
+}
+
+#img1 {
+    height: 400px;
+    margin-left: -15px;
+    position: relative;
+    z-index: 2;
+}
+
+pre {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+
+.Landing-bodycontent {
+    background-color: black;
+    color: white;
+    display: flex;
+    border-bottom: 10px solid rgb(45, 45, 45);
+}
+
+.landing-bodyimg2 {
+    border: 2px solid white;
+    border-radius: 10px;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    font-size: large;
+    width: 320px;
+    position: absolute;
+    left: 300px;
+    top: 232%;
+    background-color: black;
+}
+
+#imagestanger {
+    height: 80px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.landing-bodyimg3 {
+    margin-left: 20px;
+}
+
+.Downloading {
+    color: blue;
+    position: relative;
+    bottom: 20px;
+    font-size: medium;
+}
+
+#img2 {
+    width: 580px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.Landing-bodycontent1 {
+    font-size: xxx-large;
+    width: 580px;
+    font-weight: bold;
+    margin-top: 180px;
+    margin-left: -70px;
+}
+
+.Landing-bodycontent2 {
+    font-size: x-large;
+    width: 500px;
+    position: relative;
+    bottom: 120px;
+    margin-left: -70px;
+}
+
+
+
+.Landing-bodystream {
+    background-color: black;
+    color: white;
+    display: flex;
+    border-bottom: 10px solid rgb(45, 45, 45);
+}
+
+.Landing-bodystream1 {
+    font-size: xxx-large;
+    font-weight: bold;
+    margin-top: 180px;
+    margin-left: 110px;
+}
+
+.Landing-bodystream2 {
+    font-size: x-large;
+    width: 550px;
+    position: relative;
+    bottom: 120px;
+    margin-left: 110px;
+}
+
+#img3 {
+    width: 550px;
+    margin-left: -50px;
+    margin-top: 70px;
+    position: relative;
+    z-index: 2;
+}
+
+#video2 {
+    width: 330px;
+    position: absolute;
+    bottom: -220%;
+    left: 880px;
+    z-index: 1;
+}
+
+
+
+.Landing-bodychild {
+    background-color: black;
+    color: white;
+    display: flex;
+    border-bottom: 10px solid rgb(45, 45, 45);
+}
+
+#img4 {
+    width: 580px;
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.Landing-bodychild1 {
+    font-size: xxx-large;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: -50px;
+}
+
+.Landing-bodychild2 {
+    font-size: x-large;
+    margin-top: 100px;
+    width: 620px;
+    position: relative;
+    bottom: 130px;
+    margin-left: -50px;
+}

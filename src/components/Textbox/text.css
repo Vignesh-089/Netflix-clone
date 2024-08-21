@@ -1,0 +1,46 @@
+.header-content1 {
+    font-size: xxx-large;
+    font-weight: bold;
+}
+
+.header-content2 {
+    font-size: x-large;
+    position: relative;
+    bottom: 30px;
+}
+
+.header-content3 {
+    font-size: larger;
+    position: relative;
+    bottom: 30px;
+}
+
+/* .landcontent1{
+    font-size: xxx-large;
+    font-weight: bold;
+}
+.landcontent2{
+    font-size: larger;
+    position: relative;
+    bottom: 45px;
+} */
+
+
+.questionheading {
+    color: white;
+    font-size: xxx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.questionfooter {
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+
+
+.formhead {
+    font-size: xx-large;
+    font-weight: bold;
+}

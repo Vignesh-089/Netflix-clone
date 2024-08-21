@@ -1,0 +1,44 @@
+.Footer {
+  color: white;
+  /* margin-left: 100px; */
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+}
+
+.footerhead {
+  margin-left: 180px;
+  margin-top: 50px;
+}
+
+.footercontent {
+  display: grid;
+  grid-template-columns: 250px 280px 280px 280px;
+  grid-template-rows: 35px 35px 35px 35px;
+  text-decoration: underline;
+  margin-left: 180px;
+  margin-top: -30px;
+
+}
+
+.footlang {
+  background-color: transparent;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 120px;
+  background-blend-mode: lighten;
+  position: absolute;
+  /* left: 30%; */
+  /* top: 500px; */
+  margin-top: 4220px;
+  margin-left: -930px;
+}
+
+.footerend {
+  margin-top: 70px;
+  margin-left: 180px;
+}

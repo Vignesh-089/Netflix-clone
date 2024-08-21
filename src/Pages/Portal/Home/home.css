@@ -1,0 +1,48 @@
+.NETFLIXORIGINALS {
+    margin-top: 270px;
+}
+
+.main_home {
+    background-color: black;
+    color: white;
+}
+
+.home-facebook {
+    color: white;
+    font-size: x-large;
+}
+
+.home-facebook1 {
+    color: white;
+    margin-left: 20px;
+    font-size: x-large;
+}
+
+.home-facebook2 {
+    color: white;
+    margin-left: 20px;
+    font-size: x-large;
+}
+
+.home-facebook3 {
+    color: white;
+    font-size: x-large;
+    margin-left: 20px;
+}
+
+.home-footer-icon {
+    margin-left: 280px;
+    gap: 20px;
+}
+
+.service-homes {
+    margin-top: 20px;
+    border: 1px solid grey;
+    width: fit-content;
+    padding: 5px;
+}
+
+.Audio-footer:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

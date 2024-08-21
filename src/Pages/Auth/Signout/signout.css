@@ -1,0 +1,77 @@
+/* body{
+    background-image: url("../../../asserts/login-the-crown_2-1500x1000.jpg");
+
+} */
+.Signout {
+    background-image: url("../../../assert/login-the-crown_2-1500x1000.jpg");
+}
+
+.Netflix-logo1 {
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 60px;
+}
+
+.signoutcontent {
+    background-color: #f3f3f3;
+    border: 2px solid black;
+    height: 300px;
+    width: 450px;
+    margin-left: 500px;
+    margin-top: -90px;
+}
+
+.outcontent1 {
+    font-size: xx-large;
+    font-weight: 500;
+    color: #333;
+    margin-left: 30px;
+}
+
+.outcontent2 {
+    font-size: medium;
+    color: #333;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+.outcontent3 {
+    font-size: medium;
+    color: #333;
+    margin-left: 30px;
+}
+
+.Gonowbutt {
+    background-color: rgb(28, 169, 215);
+    color: white;
+    font-size: larger;
+    padding: 8px;
+    width: 350px;
+    margin-left: 30px;
+    margin-top: -5px;
+    border: 0;
+}
+
+.signoutfooter {
+    background: transparent;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.outfooter1 {
+    color: #757575;
+}
+
+.outfooter2 {
+    color: #757575;
+    display: grid;
+    grid-template-columns: 250px 250px 250px 280px;
+    grid-template-rows: 35px 35px 35px 35px;
+}
+
+.outfooter2-1:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

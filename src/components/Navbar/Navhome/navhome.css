@@ -1,0 +1,99 @@
+.Navhome {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 80px;
+    z-index: 2;
+}
+
+.Netflix-logo-home {
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+    margin-top: -15px;
+}
+
+.navhome-content {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-size: smaller;
+    margin-left: 50px;
+    margin-top: 8px;
+}
+
+.navcontent-bar:hover {
+    color: gray;
+    cursor: pointer;
+}
+
+#svgsearch {
+    font-size: xx-large;
+}
+
+#svgsearch1 {
+    font-size: xx-large;
+}
+
+.navhome-footer {
+    margin-left: 450px;
+    gap: 25px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+}
+
+.home_profile {
+    height: 35px;
+    margin-top: -5px;
+}
+
+.profile_select {
+    height: 20px;
+    background-color: black;
+    color: white;
+    border: 0;
+    margin-left: -30px;
+    margin-top: 5px;
+}
+
+#svgsearch2 {
+    height: 25px;
+    margin-left: -20px;
+    cursor: pointer;
+}
+
+#svgsearch2:hover .hoverfooter {
+    display: block;
+}
+
+.navfooter-hover {
+    display: none;
+    border: 2px solid black;
+    background-color: black;
+    height: 250px;
+    width: 250px;
+    margin-left: -100px;
+    margin-top: 80px;
+}
+
+.profile_hover {
+    margin-top: -3px;
+}
+
+.profile_home_1 {
+    margin-left: 30px;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.home_signout {
+    text-align: center;
+}
+
+/* .home_profile:hover .navfooter-hover{
+    display: block;
+} */

@@ -1,0 +1,43 @@
+.signup-container1 {
+    margin-left: 35%;
+    color: #333;
+}
+
+.signuppage1-1 {
+    font-size: xx-large;
+    font-weight: bold;
+    margin-top: -30px;
+
+}
+
+.signuppage1-2 {
+    font-size: large;
+    margin-top: -20px;
+}
+
+.signup-input {
+    padding: 20px;
+    width: 400px;
+}
+
+.signuppage1-4 {
+    font-size: medium;
+    color: blue;
+}
+
+.signuppage1-4:hover {
+    text-decoration: underline;
+}
+
+.signup-button {
+    background-color: red;
+    color: white;
+    padding: 15px;
+    width: 445px;
+    font-size: x-large;
+    border-radius: 3px;
+    border: 0;
+    position: relative;
+    top: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,39 @@
+#Language {
+  background-color: transparent;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 120px;
+  background-blend-mode: lighten;
+  position: absolute;
+  top: 20px;
+  left: 73%;
+}
+
+#svglang {
+  color: white;
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  left: 73.5%;
+  top: 25px;
+}
+
+#svglang1 {
+  color: white;
+  height: 20px;
+  width: 20px;
+  position: relative;
+  left: 185px;
+  top: 40px;
+}
+
+#svglang2 {
+  color: white;
+  height: 20px;
+  width: 20px;
+  position: relative;
+  left: 185px;
+}
